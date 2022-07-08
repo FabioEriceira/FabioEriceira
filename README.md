@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, aqui Fábio, que a paz esteja com todos vocês! 👋
 
-<!--
-**FabioEriceira/FabioEriceira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Back-end Java.
+- 🌱 I’m currently learning: JavaScript, TypeScript, Angular.
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=fabioericeira&anuraghazra&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioericeira&anuraghazra&layout=compact&theme=dark">
+  </a>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
