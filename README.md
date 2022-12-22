@@ -1,7 +1,7 @@
 ### Olá, aqui Fábio, que a paz esteja com todos vocês! 👋
 
 - 🔭 I’m currently working on: Back-end Java.
-- 🌱 I’m currently learning: JavaScript, TypeScript, Angular.
+- 🌱 I’m currently learning: Java, JavaScript, TypeScript, Angular.
 - 😄 Pronouns: ele/dele
 
 <!-- <div>
